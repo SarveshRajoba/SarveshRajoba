@@ -1,9 +1,13 @@
 <!-- Banner -->
-<img src="https://i.pinimg.com/1200x/a4/05/d9/a405d924a1fef6ea5a13eec96d00aba9.jpg" width="100%" height="30%"/>
+<img src="https://i.pinimg.com/1200x/a4/05/d9/a405d924a1fef6ea5a13eec96d00aba9.jpg" 
+     width="100%" 
+     style="height: 230px; object-fit: cover; object-position: center;" />
+
 
 <br/><br/>
 
-# HI I'M Sarvesh Rajoba! 
+# 😎 I'M Sarvesh Rajoba! 
+
 ### BE Electronics & Telecommunication @ PICT Pune  
 ### Software Developer • Problem Solver • Critical Thinker
 
@@ -34,7 +38,7 @@ I believe in creating meaningful work through consistency, depth, and refinement
 
 <br/>
 
-# 🛠 Tech Stack (Circle Icons)
+# 🛠 Tech Stack 
 
 ### Languages  
 <p align="left">
