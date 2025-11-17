@@ -1,9 +1,9 @@
 <!-- Banner -->
-<img src="https://i.pinimg.com/1200x/a4/05/d9/a405d924a1fef6ea5a13eec96d00aba9.jpg" width="100%"/>
+<img src="https://i.pinimg.com/1200x/a4/05/d9/a405d924a1fef6ea5a13eec96d00aba9.jpg" width="100%" height="30%"/>
 
 <br/><br/>
 
-# Sarvesh Rajoba  
+# HI I'M Sarvesh Rajoba! 
 ### BE Electronics & Telecommunication @ PICT Pune  
 ### Software Developer • Problem Solver • Critical Thinker
 
