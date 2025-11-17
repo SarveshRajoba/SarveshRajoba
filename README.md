@@ -88,9 +88,7 @@ I believe in creating meaningful work through consistency, depth, and refinement
 
 <br/><br/>
 
-## ⭐ Fun Fact
-
-I genuinely enjoy **debugging** — it feels like solving a puzzle every single time 😄
+## I solve problems by breaking them before they break me. 😎
 
 <br/><br/>
 
