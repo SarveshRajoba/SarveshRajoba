@@ -1,57 +1,91 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-6e9WebguVh9Z1ql9qbjk4zG9x_znNBDnA&s" width="100%" />
-<br/>
-👋 Hey there, I'm Sarvesh Rajoba
-🌟 BE Electronics & Telecommunication @ PICT Pune
-💻 Software Developer • Problem Solver • Critical Thinker
-<br/>
-<br/>
-👨‍💻 About Me
+<img src="https://i.pinimg.com/1200x/a4/05/d9/a405d924a1fef6ea5a13eec96d00aba9.jpg" width="100%" />
+<br/><br/>
 
-I'm a problem-solving–driven developer who loves building clean, efficient, and scalable software.
+# Sarvesh Rajoba  
+### BE Electronics & Telecommunication @ PICT Pune  
+### Software Developer • Problem Solver • Critical Thinker
 
-My work and learning revolve around:
-
-🧠 Solving challenging DSA problems (500+ across LeetCode, CodeChef & more)
-
-💡 Thinking critically and breaking down complex ideas
-
-💻 Creating modern, user-focused applications
-
-🚀 Exploring new tools, frameworks, and backend systems
-
-🎯 Strong interest in backend engineering, APIs, and full-stack development
-
-I believe in learning fast, thinking deeply, and building with intention.
+---
 
 <br/>
-<br/>
-🛠️ Tech Stack
-Languages
-<p align="left"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p> <br/>
-Frameworks & Tools
-<p align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" /> &nbsp; <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p> <br/>
-Databases
-<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black" /> </p> <br/>
-<br/>
-🌍 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/sarvesh-rajoba-40433825b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="mailto:sarvesh.rajoba10@gmail.com"> <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://leetcode.com/u/Sarvesh_Rajoba/"> <img src="https://img.shields.io/badge/LeetCode-F9AA00?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> &nbsp; <a href="https://www.codechef.com/users/sarvesh_16_04"> <img src="https://img.shields.io/badge/CodeChef-6B4F27?style=for-the-badge&logo=codechef&logoColor=white" /> </a> </p> <br/>
-<br/>
-✨ A Little More About Me
 
-🔍 I enjoy understanding how systems work under the hood
+## About Me
 
-🧩 I love solving algorithmic challenges
+I’m a developer who enjoys building clean, efficient, and scalable software systems.  
+My approach revolves around clarity, structured thinking, and deliberate learning.
 
-🎯 I focus on writing clean, maintainable & efficient code
+I like working on problems that require analytical reasoning, breaking down complex ideas,  
+and translating them into elegant technical solutions.
 
-🔄 I believe in consistency, iteration & lifelong learning
+My key interests include:
+- Data Structures & Algorithms (500+ problems solved)
+- Backend engineering & API design
+- Full-stack development workflows
+- Systems thinking and logical problem-solving
+- Continuous exploration of new technologies
 
-🧠 Strong analytical & structured problem-solving mindset
+I believe in creating meaningful work through consistency, depth, and refinement.
 
 <br/>
-<br/>
-⭐ Fun Fact
 
-I genuinely enjoy debugging — it feels like solving a puzzle every single time 😄
+---
 
 <br/>
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00427E?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-AA0000?style=flat&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+<br/>
+
+### Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-0EA5E9?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F14E32?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Postman-E95620?style=flat&logo=postman&logoColor=white" />
+</p>
+
+<br/>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005F8C?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-00B86E?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/sarvesh-rajoba-40433825b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sarvesh.rajoba10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sarvesh_Rajoba/">
+    <img src="https://img.shields.io/badge/LeetCode-F9AA00?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/sarvesh_16_04">
+    <img src="https://img.shields.io/badge/CodeChef-6B4F27?style=flat&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+<br/><br/>
