@@ -97,7 +97,7 @@ I believe in creating meaningful work through consistency, depth, and refinement
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sarvesh-rajoba-40433825b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/sarveshrajoba16/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:sarvesh.rajoba10@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://leetcode.com/u/Sarvesh_Rajoba/"><img src="https://img.shields.io/badge/LeetCode-F9AA00?logo=leetcode&logoColor=black&style=for-the-badge"/></a>
   <a href="https://www.codechef.com/users/sarvesh_16_04"><img src="https://img.shields.io/badge/CodeChef-6B4F27?logo=codechef&logoColor=white&style=for-the-badge"/></a>
