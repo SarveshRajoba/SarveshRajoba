@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-# 😎 I'M Sarvesh Rajoba! 
+# Hi, I'M Sarvesh Rajoba! 
 
 ### BE Electronics & Telecommunication @ PICT Pune  
 ### Software Developer | Problem Solver | Critical Thinker
